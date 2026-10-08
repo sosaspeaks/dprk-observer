@@ -1,0 +1,254 @@
+[
+  {
+    "name": "로동신문",
+    "org": "Rodong Sinmun Offices",
+    "url": "www.rodong.rep.kp",
+    "order": 2
+  },
+  {
+    "name": "조선중앙통신",
+    "org": "Korean Central News Agency",
+    "url": "www.kcna.kp",
+    "order": 5
+  },
+  {
+    "name": "조선의 소리",
+    "org": "Radio-Television Broadcasting Committee of DPR Korea",
+    "url": "www.vok.rep.kp",
+    "order": 6
+  },
+  {
+    "name": "민주조선",
+    "org": "Minju Joson Offices",
+    "url": "www.minju.rep.kp",
+    "order": 7
+  },
+  {
+    "name": "조선민주주의인민공화국 외무성",
+    "org": "Ministry of Foreign Affairs of DPR Korea",
+    "url": "www.mfa.gov.kp",
+    "order": 8
+  },
+  {
+    "name": "류경",
+    "org": "Ryugyong Programming Centre",
+    "url": "www.mediaryugyong.com.kp",
+    "order": 9
+  },
+  {
+    "name": "청년전위",
+    "org": "Chongnyon Jonwi Offices",
+    "url": "www.youth.rep.kp",
+    "order": 10
+  },
+  {
+    "name": "내나라",
+    "org": "Foreign Languages Publishing House",
+    "url": "www.naenara.com.kp",
+    "order": 12
+  },
+  {
+    "name": "평양시보",
+    "org": "Pyongyang Times",
+    "url": "www.pyongyangtimes.com.kp",
+    "order": 13
+  },
+  {
+    "name": "조선의 출판물",
+    "org": "Foreign Languages Publishing House",
+    "url": "www.korean-books.com.kp",
+    "order": 14
+  },
+  {
+    "name": "국가해사감독국",
+    "org": "Maritime Administration of DPR Korea",
+    "url": "www.ma.gov.kp",
+    "order": 15
+  },
+  {
+    "name": "인민보건",
+    "org": "Ministry of Public Health of DPR Korea",
+    "url": "www.moph.gov.kp",
+    "order": 16
+  },
+  {
+    "name": "조선관광",
+    "org": "National Tourism Administration",
+    "url": "www.tourismdprk.gov.kp",
+    "order": 17
+  },
+  {
+    "name": "조선건축",
+    "org": "Architects Union of Korea(KAU)",
+    "url": "www.koreanarchitecture.gov.kp",
+    "order": 18
+  },
+  {
+    "name": "김일성종합대학",
+    "org": "Kim Il Sung University",
+    "url": "www.ryongnamsan.edu.kp",
+    "order": 19
+  },
+  {
+    "name": "김책공업종합대학",
+    "org": "Kim Chaek University of Technology",
+    "url": "www.kut.edu.kp",
+    "order": 20
+  },
+  {
+    "name": "려명",
+    "org": "Ministry of Education, DPR Korea",
+    "url": "www.ryomyong.edu.kp",
+    "order": 21
+  },
+  {
+    "name": "남산",
+    "org": "Grand People’s Study House",
+    "url": "www.gpsh.edu.kp",
+    "order": 22
+  },
+  {
+    "name": "조선의 무역",
+    "org": " “Foreign Trade of DPR Korea” Editorial Department",
+    "url": "www.kftrade.com.kp",
+    "order": 24
+  },
+  {
+    "name": "조선우표",
+    "org": "Korea Stamp Corporation",
+    "url": "www.korstamp.com.kp",
+    "order": 27
+  },
+  {
+    "name": "조선청년국제려행사",
+    "org": "Korea Youth International Travel Company",
+    "url": "www.kiyctc.com.kp",
+    "order": 29
+  },
+  {
+    "name": "조선민족보험총회사",
+    "org": "Korea National Insurance Corporation",
+    "url": "www.knic.com.kp",
+    "order": 31
+  },
+  {
+    "name": "조선영화",
+    "org": "Korea Film Export & Import Corporation",
+    "url": "www.korfilm.com.kp",
+    "order": 32
+  },
+  {
+    "name": "만물상",
+    "org": "Yonphung Business Information Technology Centre",
+    "url": "www.manmulsang.com.kp",
+    "order": 33
+  },
+  {
+    "name": "조선민주주의인민공화국 금융정보국",
+    "org": "Financial Intelligence Agency of DPR Korea",
+    "url": "www.fia.law.kp",
+    "order": 34
+  },
+  {
+    "name": "조선예술",
+    "org": "Ministry of Culture of DPR Korea",
+    "url": "www.korart.sca.kp",
+    "order": 35
+  },
+  {
+    "name": "미래",
+    "org": "State Commission of Science and Technology of DPR Korea",
+    "url": "www.mirae.aca.kp",
+    "order": 36
+  },
+  {
+    "name": "영생",
+    "org": "Kim Il Sung-Kim Jong Il Foundation",
+    "url": "www.yongsaeng.org.kp",
+    "order": 37
+  },
+  {
+    "name": "중앙동물원",
+    "org": "Central Zoo, DPR Korea",
+    "url": "www.kza.org.kp",
+    "order": 38
+  },
+  {
+    "name": "주체",
+    "org": "Korean Association of Social Scientists",
+    "url": "www.kass.org.kp",
+    "order": 39
+  },
+  {
+    "name": "조선체육",
+    "org": "Ministry of Physical Culture and Sports of DPR Korea",
+    "url": "www.sdprk.org.kp",
+    "order": 40
+  },
+  {
+    "name": "조선료리",
+    "org": "Korea Cook Association",
+    "url": "www.cooks.org.kp",
+    "order": 41
+  },
+  {
+    "name": "로인들을 위하여",
+    "org": "Central Committee of the Korea Federation for Care of the Aged",
+    "url": "www.korelcfund.org.kp",
+    "order": 42
+  },
+  {
+    "name": "조선교육후원기금",
+    "org": "Korea Education Fund",
+    "url": "www.koredufund.org.kp",
+    "order": 45
+  },
+  {
+    "name": "명예",
+    "org": "Anti-doping Agency of the DPRK",
+    "url": "www.dprknado.org.kp",
+    "order": 46
+  },
+  {
+    "name": "희망",
+    "org": "Central Committee of the Korean Federation for Protection of the Disasbled",
+    "url": "www.naenara.com.kp/sites/kfpd",
+    "order": 47
+  },
+  {
+    "name": "조선민족유산보호기금",
+    "org": "Korea National Heritage Protection Fund",
+    "url": "www.naenara.com.kp/sites/national",
+    "order": 48
+  },
+  {
+    "name": "조선병원협회",
+    "org": "Hospitals Association of Korea",
+    "url": "www.pyongyangtimes.com.kp/hak/",
+    "order": 49
+  },
+  {
+    "name": "조선민주주의인민공화국 적십자회",
+    "org": "The Red Cross Society of the Democratic People’s Republic of Korea",
+    "url": "www.dprkrcs.com.kp",
+    "order": 50
+  },
+  {
+    "name": "조선록색후원기금",
+    "org": "Korean Green Fund",
+    "url": "www.naenara.com.kp/sites/kgf",
+    "order": 52
+  },
+  {
+    "name": "조선출판물수출입사",
+    "org": "Korea Publications Export & Import Corporation",
+    "url": "www.kpeic.com.kp",
+    "order": 101
+  },
+  {
+    "name": "부흥",
+    "org": "Ryugyong Intellectual Property Association",
+    "url": "www.buhung.aca.kp",
+    "order": 109
+  }
+]
