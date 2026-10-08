@@ -1,0 +1,27 @@
+*.html
+*.htm
+*.log
+
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+archive.db
+
+images/
+media/
+/KwangYa _ Sites_files
+/Voice of Korea_files
+/Foreign Trade of DPR of Korea_files
+
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+Desktop.ini
